@@ -4,6 +4,9 @@
 
 BillWise is a comprehensive expense tracker Android application developed by the JustInCase development team. Built using Flutter, Django, and Firebase, BillWise offers a user-friendly platform for efficient expense management. The app includes advanced features such as automatic expense categorization, expense prediction, payment integration, visualization tools, AI chatbot assistance, user customization, and plans for future expansion.
 
+## Machine Learnig API:
+https://github.com/ChetanIND/justincaseApi
+
 ## Features
 
 ### Expense Management
